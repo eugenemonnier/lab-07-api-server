@@ -5,7 +5,7 @@
 ### Author: Eugene Monnier
 
 ### Links & Resources
-- [submission PR]
+- [submission PR](https://github.com/eugenemonnier/lab-07-api-server/pull/1)
 
 ### Setup
 
