@@ -1,0 +1,38 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "July Talk",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Odesza",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Run the Jewels",
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "name": "St Vincent",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "genre": "indie rock"
+    },
+    {
+      "id": 2,
+      "genre": "indietronica"
+    },
+    {
+      "id": 3,
+      "genre": "hip hop"
+    }
+  ]
+}
